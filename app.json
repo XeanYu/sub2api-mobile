@@ -15,14 +15,14 @@
     "ios": {
       "supportsTablet": true,
       "icon": "./icons/ios/AppIcon.appiconset/icon-1024.png",
-      "bundleIdentifier": "com.ppx.sub2apimobile",
+      "bundleIdentifier": "com.apiport.sub2apimobile",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
       "icon": "./icons/android/playstore-icon.png",
-      "package": "com.ppx.sub2apimobile",
+      "package": "com.apiport.sub2apimobile",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./icons/android/playstore-icon.png"
